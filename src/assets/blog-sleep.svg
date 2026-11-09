@@ -1,0 +1,12 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#6366F7"/>
+<rect x="0" y="240" width="400" height="60" fill="#344153"/>
+<circle cx="200" cy="150" r="80" fill="#FFFFFF" opacity="0.9"/>
+<circle cx="200" cy="150" r="60" fill="#FFFFFF"/>
+<circle cx="200" cy="150" r="40" fill="#6366F7"/>
+<text x="200" y="150" text-anchor="middle" fill="#344153" font-family="Arial, sans-serif" font-size="14">Sleep</text>
+<star x="100" y="80" width="10" height="10" fill="#FFFFFF" opacity="0.8"/>
+<star x="300" y="100" width="8" height="8" fill="#FFFFFF" opacity="0.6"/>
+<star x="50" y="120" width="6" height="6" fill="#FFFFFF" opacity="0.7"/>
+<star x="350" y="60" width="12" height="12" fill="#FFFFFF" opacity="0.9"/>
+</svg>

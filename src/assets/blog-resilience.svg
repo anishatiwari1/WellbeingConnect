@@ -1,0 +1,11 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#FF6B40"/>
+<rect x="0" y="240" width="400" height="60" fill="#344153"/>
+<path d="M50 200 L100 150 L150 200 L200 150 L250 200 L300 150 L350 200" stroke="#344153" stroke-width="4" fill="none"/>
+<circle cx="100" cy="150" r="8" fill="#344153"/>
+<circle cx="200" cy="150" r="8" fill="#344153"/>
+<circle cx="300" cy="150" r="8" fill="#344153"/>
+<text x="200" y="100" text-anchor="middle" fill="#344153" font-family="Arial, sans-serif" font-size="18" font-weight="bold">Resilience</text>
+<path d="M150 200 L150 240 L160 240 L160 200" fill="#344153"/>
+<path d="M240 200 L240 240 L250 240 L250 200" fill="#344153"/>
+</svg>

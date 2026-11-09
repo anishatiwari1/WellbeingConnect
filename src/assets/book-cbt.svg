@@ -1,0 +1,8 @@
+<svg width="200" height="300" viewBox="0 0 200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="300" fill="#409EFF"/>
+<rect x="10" y="10" width="180" height="280" fill="#FFFFFF"/>
+<rect x="20" y="20" width="160" height="260" fill="#344153"/>
+<text x="100" y="50" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Feeling Good</text>
+<text x="100" y="200" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="10">David D. Burns</text>
+<circle cx="100" cy="250" r="20" fill="#FFFFFF" opacity="0.3"/>
+</svg>
